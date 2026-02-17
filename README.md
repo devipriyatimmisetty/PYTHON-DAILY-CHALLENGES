@@ -59,6 +59,34 @@ This structure keeps learning organized and easy to revisit.
 - Command Line / Terminal
 
 ---
+## Challenge Timeline
+
+- Start Date: 28 January 2026  
+- Target Completion: Day 60  
+
+---
+
+## Why This Challenge?
+
+Consistency builds strong foundations.  
+This challenge helps develop real coding confidence through daily practice, learning from mistakes, and gradually tackling more complex scenarios.
+
+---
+
+## Future Plans
+
+- Add more advanced challenges
+- Include test cases and edge case handling
+- Improve code documentation
+- Explore algorithms and data structures
+- Share insights and lessons learned
+
+---
+
+## Contributions
+
+This is a personal learning project, but suggestions, ideas, or feedback are always welcome.
+---
 
 ## Concepts Covered (Day-wise)
 
@@ -102,32 +130,5 @@ This structure keeps learning organized and easy to revisit.
 
 ---
 
-## Challenge Timeline
 
-- Start Date: 28 January 2026  
-- Target Completion: Day 60  
 
----
-
-## Why This Challenge?
-
-Consistency builds strong foundations.  
-This challenge helps develop real coding confidence through daily practice, learning from mistakes, and gradually tackling more complex scenarios.
-
----
-
-## Future Plans
-
-- Add more advanced challenges
-- Include test cases and edge case handling
-- Improve code documentation
-- Explore algorithms and data structures
-- Share insights and lessons learned
-
----
-
-## Contributions
-
-This is a personal learning project, but suggestions, ideas, or feedback are always welcome.
-
-If you find this repository helpful or inspiring, feel free to star it.
