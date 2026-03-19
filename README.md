@@ -128,15 +128,12 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
   - Computed PLI = L % 3
   - Applied Rule A / B / C accordingly
 
-###Day 6 - Smart Transaction Risk Detector
- 
+###**Day 6 — Smart Transaction Risk Detector**
 -Transaction analysis using lists
--Loop-driven classification of transactions
+-Loop-based classification
 -Risk categorization (Low / Moderate / High)
--Pattern detection based on transaction behavior
--**Personalized risk classification based on transaction count, total spending, and high-risk transaction frequency**
--Transaction summary using tuple and dictionary
----
-
+-Pattern detection from transactions
+-Personalized risk based on count, total, and high-risk frequency
+-Summary using tuple and dictionary
 
 
