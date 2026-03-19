@@ -16,7 +16,7 @@ The goal is simple: learn by doing — every single day.
 | 3 | Student Performance Analyzer | Complete |
 | 4 | Cyber Activity Risk Analyzer | Complete |
 | 5 | Emergency Resource Dispatch Analyzer | Complete |
-| 6 | Loading... | In Progress |
+| 6 | Smart Transaction Risk Detector| Complete |
 
 
 ## Repository Structure
@@ -128,12 +128,19 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
   - Computed PLI = L % 3
   - Applied Rule A / B / C accordingly
 
-###**Day 6 — Smart Transaction Risk Detector**
+###Day 6—** Smart Transaction Risk Detector**
+
 -Transaction analysis using lists
+
 -Loop-based classification
+
 -Risk categorization (Low / Moderate / High)
+
 -Pattern detection from transactions
+
 -Personalized risk based on count, total, and high-risk frequency
+
 -Summary using tuple and dictionary
 
+----------
 
