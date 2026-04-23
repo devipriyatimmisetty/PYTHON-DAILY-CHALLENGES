@@ -128,7 +128,7 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
   - Computed PLI = L % 3
   - Applied Rule A / B / C accordingly
 
-###Day 6—** Smart Transaction Risk Detector**
+### Day 6— Smart Transaction Risk Detector
 
 -Transaction analysis using lists
 
