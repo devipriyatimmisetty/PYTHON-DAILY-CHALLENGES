@@ -17,6 +17,7 @@ The goal is simple: learn by doing — every single day.
 | 4 | Cyber Activity Risk Analyzer | Complete |
 | 5 | Emergency Resource Dispatch Analyzer | Complete |
 | 6 | Smart Transaction Risk Detector| Complete |
+| 8 | Multi-Dimensional Academic Intelligence System |
 
 
 ## Repository Structure
@@ -142,4 +143,13 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
 * Summary using tuple and dictionary
 
 ----------
+
+### Day 8-: Multi-Dimensional Academic Intelligence System
+*Generates student data (marks, attendance, assignments) using random values
+
+*Analyzes the data using NumPy and Pandas to compute statistics and correlation
+
+*Classifies students into categories like At Risk, Average, Good, and Top Performer
+
+*Provides overall academic insight based on performance patterns
 
