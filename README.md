@@ -17,7 +17,7 @@ The goal is simple: learn by doing — every single day.
 | 4 | Cyber Activity Risk Analyzer | Complete |
 | 5 | Emergency Resource Dispatch Analyzer | Complete |
 | 6 | Smart Transaction Risk Detector| Complete |
-| 8 | Multi-Dimensional Academic Intelligence System |
+| 8 | Multi-Dimensional Academic Intelligence System | Complete|
 
 
 ## Repository Structure
