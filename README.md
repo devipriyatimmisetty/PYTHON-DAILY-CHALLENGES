@@ -131,15 +131,10 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
 
 ### Day 6— Smart Transaction Risk Detector
 * Transaction analysis using lists
-
 * Loop-based classification
-
 * Risk categorization (Low / Moderate / High)
-
 * Pattern detection from transactions
-
 * Personalized risk based on count, total, and high-risk frequency
-
 * Summary using tuple and dictionary
 
 ----------
