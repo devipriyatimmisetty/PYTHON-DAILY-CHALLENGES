@@ -144,12 +144,12 @@ This is a personal learning project, but suggestions, ideas, or feedback are alw
 
 ----------
 
-### Day 8-: Multi-Dimensional Academic Intelligence System
-*Generates student data (marks, attendance, assignments) using random values
+### Day 8- Multi-Dimensional Academic Intelligence System
+* Generates student data (marks, attendance, assignments) using random values
 
-*Analyzes the data using NumPy and Pandas to compute statistics and correlation
+* Analyzes the data using NumPy and Pandas to compute statistics and correlation
 
-*Classifies students into categories like At Risk, Average, Good, and Top Performer
+* Classifies students into categories like At Risk, Average, Good, and Top Performer
 
-*Provides overall academic insight based on performance patterns
+* Provides overall academic insight based on performance patterns
 
